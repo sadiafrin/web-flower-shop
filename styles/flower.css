@@ -49,3 +49,15 @@ h3{
     font-weight: 800;
     font-family: sans-serif;
 }
+/* insta section */
+div{
+    text-align: center;
+}
+div img{
+    width: 342px;
+    height: 396px;
+  flex-shrink: 0;
+  margin-left: 10px;
+  text-align: center;
+   
+}
